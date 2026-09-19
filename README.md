@@ -42,4 +42,3 @@ The project uses a historical Olympic Games dataset. The dataset contains inform
 2. Open "Olympic_Games_Data_Analysis.ipynb" in Jupyter Notebook.
 3. Install the required Python libraries.
 4. Run the notebook cells to reproduce the analysis.
-5. 
